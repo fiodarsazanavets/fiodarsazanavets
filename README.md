@@ -90,16 +90,3 @@ Right now, I’m especially interested in:
 If you’re interested in **.NET architecture, Aspire, distributed systems, applied AI, technical education, or consulting-oriented engineering assets**, you’re in the right place.
 
 ---
-
-## Optional pinned repositories suggestion
-
-If you want your GitHub profile to communicate a sharper expert positioning, I’d recommend pinning repositories like these:
-
-1. `aspire-13-examples`
-2. `SignalR-on-.NET-6---the-complete-guide`
-3. `Dotnet-CSharp-SOLID-demo`
-4. `ef-core-10-modeling-concepts`
-5. `mlnet-project-samples`
-6. your strongest upcoming repo for **agentic systems / production templates**
-
----
