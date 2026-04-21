@@ -55,6 +55,12 @@ My teaching style focuses on:
 - production-minded examples
 - evergreen engineering skills that remain valuable as tools evolve
 
+[My books](https://www.amazon.com/author/fiodar-sazanavets)
+
+[My Pluralsight courses on .NET and AI agents](https://www.pluralsight.com/authors/fiodar-sazanavets)
+
+[My DataCamp courses on Azure](https://www.datacamp.com/blog/meet-the-instructor-fiodar-sazanavets-on-azure-ai-engineering-and-building-real-world-cloud-skills)
+
 ---
 
 ## What you’ll find on this profile
